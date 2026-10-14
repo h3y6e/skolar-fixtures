@@ -5,4 +5,4 @@ description: Fixture skill beta for skolar interop tests.
 
 # beta
 
-v1
+v2
