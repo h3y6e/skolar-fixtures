@@ -1,0 +1,7 @@
+{
+  "name": "skolar-fixtures",
+  "owner": { "name": "h3y6e" },
+  "plugins": [
+    { "name": "p", "source": "./plugins/p", "skills": ["./skills/eta"] }
+  ]
+}
