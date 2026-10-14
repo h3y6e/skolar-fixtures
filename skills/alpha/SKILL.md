@@ -5,4 +5,4 @@ description: Fixture skill alpha for skolar interop tests.
 
 # alpha
 
-v1
+v2
